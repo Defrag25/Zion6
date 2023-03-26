@@ -1,0 +1,23 @@
+//////////
+// PROG //
+//////////
+
+Gestion de la carte SD et des programmes 
+
+La gestion de la carte SD est tres basique 
+
+Le niveau de sous repertoires est limite a 2.
+Le nom des fichiers est en format 8+3
+
+Noms specifiques
+>Fn1.nc  --> pour le programme du bouton 1
+>Fn2.nc  -->         "                   2
+>Fn3.nc  -->         "                   3
+>/Help/Menux.txt --> pour l'aide des menus avec x=n. du menu
+>Config.txt --> pour la config de Grbl par defaut     
+>Temp.nc --> pour le programme temporaire du menu "template"
+
+
+* (a_faire)
+
+

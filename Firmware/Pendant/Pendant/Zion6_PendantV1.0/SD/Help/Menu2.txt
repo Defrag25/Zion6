@@ -1,0 +1,23 @@
+/////////////////
+// Menu de JOG //
+/////////////////
+
+
+Les boutons X et Z permettent des deplacements des axes 
+Le pas et la vitesse sont parametres dans le menu 1.
+
+
+->0<-  Permet de faire le 0 a l'endroit actuel avec l'outil selectionné
+       Tout changement d'outil implique un décalage correspondant aux 
+       Offsets de l'outil
+ORG<-  Retour à l'origine 
+RESET  Reset la CN (avec_perte_de_l'origine_TL0)
+STOP   Arrete le déplacement avec déccélération des axes
+ON     Broche en marche avec PWM=800
+OFF    Broche OFF
+
+REBOOT   *(a_virer) 
+Init     *(a_virer) 
+Buff Col *(a_virer) 
+Params   *(a_virer) 
+Status   *(a_virer) 

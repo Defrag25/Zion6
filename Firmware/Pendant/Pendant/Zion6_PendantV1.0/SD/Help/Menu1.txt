@@ -1,0 +1,34 @@
+/////////
+// IHM //
+/////////
+
+ La zone superieure indique le status Grbl du tour ,
+le rectangle qui clignote indique que l'IHM est en vie!
+
+Menu PARAMS
+> accessible uniquement en cochant le bouton Params a droite du n. de page
+> Permet de parametrer le comportement de l'IHM
+  (pour plus d'infos, aller dans le menu params est demander l'aide avec CTRL+ESC)
+Les boutons en face avant sont expliques dans le menu IHM accessible depuis le menu PARAMS
+
+il est possible de cliquer sur:
+> La description de l'outil pour le changer 
+> G54 ou G55 pour changer de repere *
+> Grbl pour reseter la CN
+
+Toutes les fenetres possedent un rectangle affichant des donnees 
+d'aide mais aussi les donnees qui transitent avec Grbl
+
+
+///////////////
+// Racourcis //
+///////////////
+CTRL+ALT+SUP  = reset IHM
+CTRL+ESC      = Aide sur la fenetre d'appel
+ESC           = Retour fenetre precedente
+
+PADDLE  Active le JOYstic analogique
+POWER   Active la puissance moteur
+
+* (a_faire)
+

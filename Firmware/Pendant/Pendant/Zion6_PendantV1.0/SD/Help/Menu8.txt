@@ -1,0 +1,15 @@
+/////////////
+// JOYstic // 03/08/2020
+/////////////
+
+Permet de regler les offsets des axes X , Z et Vitesse
+
+Le parametre scann + et - permet d'agir sur la reactivite du joystic analogique
+
+Save    Pour sauver les parametres 
+Init    Pour les parametres par defaut *
+
+pour recalibrer le JOYstic
+Appuyer sur Init puis bouger le JOYstic dans tous les sens au maximum
+
+*(a_faire)

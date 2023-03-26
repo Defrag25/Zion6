@@ -1,0 +1,17 @@
+type;xstart;ystart;zstart;xend;yend;zend;zstep;zfeed;xyfeed;centerx;centery;radius;alphastart;nbrepeat;cuttype;position;tooldiam;offsetrecov;zsecu;zdrillSecuG0;direction
+circle;;;0;;;-10;3;20;100;100;100;50;0;;helical;outside;8;;20;;ccw
+circle;;;0;;;-10;3;20;100;100;100;50;20;;heliflat;inside;8;;20;;cw
+circle;;;0;;;-10;3;20;100;100;100;50;30;;flat;onpath;;;20;;cw
+circle;;;0;;;-10;3;20;100;100;100;51;40;;pocket;;8;1;20;;ccw
+box;0;0;0;100;50;-10;3;20;100;;;10;;;flat;outside;8;;20;;ccw
+box;0;30;0;150;100;-10;3;20;100;;;15;;;helical;inside;8;;20;;cw
+box;0;30;0;150;100;-10;3;20;100;;;0;;;heliflat;onpath;;;20;;ccw
+box;0;0;0;10;20;-10;3;20;100;;;10;;;pocket;;8;1;20;;cw
+drill;10;10;0;;;-10;3;20;;;;;;;;;;;20;0.5;
+drill;10;10;0;20;20;-10;3;20;;;;;;3;;;;;20;0.5;
+line;10;10;0;20;20;-10;3;20;100;;;;;;flat;;;;20;;
+line;10;10;0;20;20;-10;3;20;100;;;;;;heliflat;;;;20;;
+line;10;10;0;20;20;-10;3;20;100;;;;;;flat;;;;20;;
+goto;;;;30;;;;;100;;;;;;;;;;none;;
+goto;;;;30;30;30;;;100;;;;;;;;;;20;;
+goto;;;;30;30;;;;g0;;;;;;;;;;20;;

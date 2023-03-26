@@ -1,0 +1,15 @@
+////////////
+// OUTILS // 03/08/2020
+////////////
+
+Permet de definir les decalages de 3 outils
+
+T1  X =      \
+    Z =       |
+T2  X =        \  par rapport au point de centre
+    Z =        /  du chariot
+T3  X =       |
+    Z =      /
+
+La selection de l'outil se fait soit en cliquant sur le bouton correspondant soit sur le n. d'outil
+sur l'affichage superieur

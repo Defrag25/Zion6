@@ -1,0 +1,32 @@
+// Variables systeme
+[T1_X]         0  = 14.005 // Index X Tool 1
+[T1_Z]         1  = 11.000 // Index Z Tool 1
+[T2_X]         2  = 0  // Index X Tool 2
+[T2_Z]         3  = 0  // Index Z Tool 2
+[T3_X]         4  = 0  // Index X Tool 3
+[T3_Z]         5  = 0  // Index Z Tool 3
+[TL0_X]        6  = 0  // Index X Tool TL0
+[TL0_Z]        7  = 0  // Index Z Tool TL0
+[MoveStep]     8  = 0  // Index Step
+[MoveSpeed]    9  = 0  // Index Speed
+[PositionX]    10 = 0  // Position de l'axe X (uniquement pour permettre la modification avec le clavier)
+[PositionZ]    11 = 0  // Position de l'axe Z (uniquement pour permettre la modification avec le clavier)
+[Pt_FromX]     12 = 0  // Point de depart d'un travail
+[Pt_FromZ]     13 = 0  // Point de depart d'un travail
+[Pt_ToX]       14 = 0  // Point de depart d'un travail
+[Pt_ToZ]       15 = 0  // Point de depart d'un travail
+[Pt_CentreX]   16 = 0  // Point de depart d'un travail
+[Pt_CentreZ]   17 = 0  // Point de depart d'un travail
+[Pt_Feed]      18 = 0  // Point de depart d'un travail
+[Pt_Repeat]    19 = 0  // Point de depart d'un travail
+[Pt_Increment] 20 = 0  // Point de depart d'un travail
+[MoveStep2]    21 = 0  // Index Step2
+[G54_X]        22 = 0  // G54
+[G54_Z]        23 = 0  // G54
+[G55_X]        24 = 0  // G54
+[G55_Z]        25 = 0  // G54
+[PointX]       26 = 0  // PointX
+[PointZ]       27 = 0  // PointZ
+[ActivPX]      28 = 0  // PointX
+[ActivPZ]      29 = 0  // PointZ
+

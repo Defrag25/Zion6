@@ -1,0 +1,19 @@
+///////////////////////
+// Clavier numérique //
+///////////////////////
+
+Accessible uniquement depuis les fenetres nécessitant une saisie de nombre
+
+Fonctionnement :
+Saisir un nombre avec les boutons puis appuyer sur VAL pour le valider 
+Il est alors possible d'effectuer quelques opérations de base
+
+* (a faire)
+
+Info:
+ Seul 3 décimales sont affichées mais toutes les décimales 
+d'un Flottant 32 bits sont prises en compte.
+ Les opréation de droite nécessitent 2 nombres, le premier
+est cellui qui est validé , le second est cellui en cours d'édition.
+
+

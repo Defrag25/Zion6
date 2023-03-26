@@ -1,0 +1,33 @@
+/////////
+// IHM // 03/08/2020
+/////////
+
+Permet de configurer le comportement de l'IHM et de tester certaines fonctions
+
+La fenetre affiche tout d'abord le nom du fichier et la version + date de compilation 
+
+(Les_checkbox)
+DEBUG    Permet d'afficher les dialogues entre IHM et CN
+Cursor   Affiche le trace du curseur, c'est un peu utile en mode dessin 
+Coord    Affiche les coordonnees du curseur (utile en mode dessin
+Origines Affiche les points d'origine en mode dessin
+JOY Ana  Active la gestion du Joystic analogique
+JOY Mode Permet de choisir le mode d'utilisation du Joystic
+         Actif = Joystic analogique
+         Inactif = Joystic en mode pulses
+PARAMS   Permet d'activer la visibilite de ce menu 
+
+(Les_boutons_Jaune)
+IHM      Permet de controler le fonctionnement des boutons en face avant
+Comm     Permet de voir les transfert entre CN et IHM  
+JOYstic  Permet de configurer les offset du JoYstic
+Calib    Permet de calibrer la dalle tactile *
+
+
+(les_boutons_bleus)
+Permettent de demander les infos correspondantes a la CN.
+
+(les_boutons_rouges)
+Permettent de configurer la CN (a_utiliser_avec_precaution)
+
+*(a_faire)

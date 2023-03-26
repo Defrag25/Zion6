@@ -1,0 +1,13 @@
+;////////////////////
+;// Joystic Config //
+;////////////////////
+[XMin] 0
+[ZMin] 0
+[FMin] 0
+[XMax] 1024
+[ZMax] 1024
+[FMax] 1024
+[Offx] -8
+[Offz] -9
+[Offf] -6
+[Fscan] 4

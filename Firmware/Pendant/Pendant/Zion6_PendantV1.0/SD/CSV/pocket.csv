@@ -1,0 +1,2 @@
+type;xstart;ystart;zstart;xend;yend;zend;zstep;zfeed;xyfeed;centerx;centery;radius;alphastart;nbrepeat;cuttype;position;tooldiam;offsetrecov;zsecu;zdrillSecuG0;direction
+box;0;0;0;100;100;-10;3;20;100;;;20;;;pocket;;8;1;20;;cw

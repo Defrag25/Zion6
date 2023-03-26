@@ -1,0 +1,27 @@
+////////////
+// DESSIN // 02/08/2020
+////////////
+
+Permet de dessiner des trajectoires en y ajoutant des deplacements
+
+ESC = retour fenetre precedente
+
+G0     = deplacement lineaire rapide *
+G1     = deplacement lineaire de travail
+G2     = deplacement circulaire en sens trigo**
+G3     = deplacement circulaire en sens horaire**
+Tool   = choix de l'outil*
+Org    = deplacement depuis le point d'origine (OU1)*
+Return = retour au point d'origine (OU1)* 
+Accroche= type de déplacement
+Regle  = outil de mesure 
+
+Le zoom est reglable avec CTRL + haut/bas *
+L'offset est reglable avec haut/bas/droite/gauche *
+Zoom special (x5) avec CTRL + droite gauche *
+
+Les points sont deplaceables avec le stilet
+Les coordonnees peuvent etre reeditees en cliquant sur les EditBox **
+*(a_faire)
+**(a_ameliorer)
+

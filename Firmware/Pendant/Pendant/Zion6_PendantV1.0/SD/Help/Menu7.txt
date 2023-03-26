@@ -1,0 +1,7 @@
+////////////
+// EEPROM // 03/08/2020
+////////////
+
+Permet de verifier les donnees de l'EEPROM (mode_debug)
+
+*(a_faire)
